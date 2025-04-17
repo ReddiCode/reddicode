@@ -18,6 +18,5 @@ Sou desenvolvedor Android e apaixonado por tecnologia.
 - Scrum
 
 ## 📫 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-rodrigo-costa-a633bba1)
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigojsc/)
+
